@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=latex 2012.12.9)  25 SEP 2013 15:00
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=latex 2012.12.9)  26 SEP 2013 17:55
 entering extended mode
  %&-line parsing enabled.
 **ucc13_final.tex
@@ -256,11 +256,18 @@ File: Figure/figure5.eps Graphic file (type eps)
  <Figure/figure5.eps> [6]
 File: Figure/figure6_1.eps Graphic file (type eps)
  <Figure/figure6_1.eps>
-File: Figure/figure6_2.eps Graphic file (type eps)
+Overfull \hbox (1.43625pt too wide) in paragraph at lines 1351--1351
+ [][] 
+ []
 
+File: Figure/figure6_2.eps Graphic file (type eps)
 <Figure/figure6_2.eps>
+Overfull \hbox (1.43349pt too wide) in paragraph at lines 1353--1353
+ [][] 
+ []
+
 File: Figure/figure7.eps Graphic file (type eps)
- <Figure/figure7.eps> [7]
+<Figure/figure7.eps> [7]
 Underfull \vbox (badness 1803) has occurred while \output is active []
 
  [8]
@@ -311,4 +318,4 @@ Here is how much of TeX's memory you used:
  31 hyphenation exceptions out of 8191
  27i,19n,24p,349b,299s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on ucc13_final.dvi (9 pages, 62968 bytes).
+Output written on ucc13_final.dvi (9 pages, 62988 bytes).
