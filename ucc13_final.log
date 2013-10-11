@@ -1,11 +1,17 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=latex 2012.12.9)  26 SEP 2013 17:55
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=latex 2013.10.3)  7 OCT 2013 16:04
 entering extended mode
  %&-line parsing enabled.
 **ucc13_final.tex
 (./ucc13_final.tex
 LaTeX2e <2009/09/24>
 Babel <v3.8l> and hyphenation patterns for english, usenglishmax, dumylang, noh
-yphenation, loaded.
+yphenation, farsi, arabic, croatian, bulgarian, ukrainian, russian, czech, slov
+ak, danish, dutch, finnish, french, basque, ngerman, german, german-x-2009-06-1
+9, ngerman-x-2009-06-19, ibycus, monogreek, greek, ancientgreek, hungarian, san
+skrit, italian, latin, latvian, lithuanian, mongolian2a, mongolian, bokmal, nyn
+orsk, romanian, irish, coptic, serbian, turkish, welsh, esperanto, uppersorbian
+, estonian, indonesian, interlingua, icelandic, kurmanji, slovenian, polish, po
+rtuguese, spanish, galician, catalan, swedish, ukenglish, pinyin, loaded.
 (./IEEEtran.cls
 Document Class: IEEEtran 2007/03/05 V1.7a by Michael Shell
 -- See the "IEEEtran_HOWTO" manual for usage information.
@@ -310,12 +316,12 @@ Before submitting the final camera ready copy, remember to:
 
 [9] (./ucc13_final.aux) ) 
 Here is how much of TeX's memory you used:
- 2047 strings out of 495062
- 29499 string characters out of 1182644
- 93911 words of memory out of 3000000
- 5238 multiletter control sequences out of 15000+50000
+ 2047 strings out of 493849
+ 29499 string characters out of 1152846
+ 95419 words of memory out of 3000000
+ 5337 multiletter control sequences out of 15000+50000
  28344 words of font info for 63 fonts, out of 3000000 for 9000
- 31 hyphenation exceptions out of 8191
+ 717 hyphenation exceptions out of 8191
  27i,19n,24p,349b,299s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on ucc13_final.dvi (9 pages, 62988 bytes).
+Output written on ucc13_final.dvi (9 pages, 62980 bytes).
